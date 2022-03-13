@@ -6,4 +6,4 @@
 - git add
 - git commit
 
-## 좀 더 작은 문자
+## 좀 더 작은 글자
